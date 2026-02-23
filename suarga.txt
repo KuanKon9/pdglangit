@@ -219,7 +219,7 @@ pcm_consent_cookie: 'analytical=true&amp;countryCode=ID&amp;consentId=365003b4-2
                 "@id": "https://procare360.cl/contacto/",
                 "name": "SARI4D # Login Slot Gacor Hari Ini Deposit Qris Mahjong Scatter Hitam 2026",
                 "image": [
-                    "https://haleyanderson.co/seo/images/sgg.gif",
+                    "",
                     "https://res.cloudinary.com/dbb5t7rye/image/upload/v1771832751/sari_banner_108_drclu8.webp"
                 ],
                 "description": "SARI4D adalah situs login slot gacor hari ini dengan deposit QRIS cepat dan aman. Main Mahjong Scatter Hitam 2026, RTP tinggi, bonus menarik dan peluang maxwin besar.",
