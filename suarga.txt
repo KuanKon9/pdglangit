@@ -41,11 +41,11 @@ window.mainCssWasLoaded = 1;
 <meta name="robots" content="index,follow" />
 <link rel="canonical" href="https://procare360.cl/contacto/" />
 <link rel="amphtml" href="https://sari4dlinkresmi.it.com//"/>
-<link rel="alternate" hreflang="id-id" href="https://sari4dlinkresmi.it.com//"/>
-<link rel="alternate" href="https://sari4dlinkresmi.it.com//"/>
-<link rel="alternate" hreflang="id" href="https://sari4dlinkresmi.it.com//"/>
-<link rel="alternate" hreflang="en" href="https://sari4dlinkresmi.it.com//"/>
-<link rel="alternate" hreflang="x-default" href="https://sari4dlinkresmi.it.com//"/>
+<link rel="alternate" hreflang="id-id" href="https://sari4dlinkresmi.it.com/"/>
+<link rel="alternate" href="https://sari4dlinkresmi.it.com/"/>
+<link rel="alternate" hreflang="id" href="https://sari4dlinkresmi.it.com/"/>
+<link rel="alternate" hreflang="en" href="https://sari4dlinkresmi.it.com/"/>
+<link rel="alternate" hreflang="x-default" href="https://sari4dlinkresmi.it.com/"/>
 <meta name="twitter:app:id:iphone" content="SARI4D" />
 <meta name="twitter:app:name:ipad" content="SARI4D" />
 <meta name="twitter:app:id:ipad" content="SARI4D" />
