@@ -40,7 +40,7 @@ window.mainCssWasLoaded = 1;
 <meta name="keywords" content="SARI4D, SARI4D login, SARI4D link, SARI4D SLOT, SARI4D login alternatif, SARI4D link alternatif" />
 <meta name="robots" content="index,follow" />
 <link rel="canonical" href="https://procare360.cl/contacto/" />
-<link rel="amphtml" href="https://sari4dlinkresmi.it.com//"/>
+<link rel="amphtml" href="https://sari4dlinkresmi.it.com/"/>
 <link rel="alternate" hreflang="id-id" href="https://sari4dlinkresmi.it.com/"/>
 <link rel="alternate" href="https://sari4dlinkresmi.it.com/"/>
 <link rel="alternate" hreflang="id" href="https://sari4dlinkresmi.it.com/"/>
